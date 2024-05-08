@@ -7,10 +7,6 @@ This is my fork. The main goal was to add UWP target to Xamarin-ToDo-App solutio
 
 **Todo App** is a simple to do app developed with **Xamarin** and **Firebase**. The app allows you to create an account and login to create tasks and organize them into lists. You can see the tasks for the selected date in realtime mode, edit and delete them with swipe action, reorder them using drag and drop action and filter them by list from More screen. From Profile screen you can hide completed tasks on the main screen and see the total number of tasks, of completed tasks and lists that you created for your account. The app is available in both **light** and **dark mode**.
 
-If you like this repository you can support the author on
-
-<a href="https://www.buymeacoffee.com/gheorghedarle" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" width="175"></a>
-
 
 ## Screenshots
 
